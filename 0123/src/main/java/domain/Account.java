@@ -1,3 +1,5 @@
+package domain;
+
 /**
  * create by lzl ON 2018/01/22
  */
